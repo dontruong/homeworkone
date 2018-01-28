@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dontruong/homeworkone/issues"
   },
-  "homepage": "https://github.com/dontruong/homeworkone#readme"
+  "homepage": "https://github.com/dontruong/homeworkone#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
