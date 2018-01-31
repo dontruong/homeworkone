@@ -1,22 +1,26 @@
 {
-  "name": "homeworkone",
+  "name": "demo-01-24",
   "version": "1.0.0",
-  "description": "",
+  "description": "class demo 2018-01-24",
   "main": "index.js",
+  "engines": {
+    "node": "9.4.0"
+  },
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dontruong/homeworkone.git"
+    "url": "git+https://github.com/csulbying/demo-01-24.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dontruong/homeworkone/issues"
+    "url": "https://github.com/csulbying/demo-01-24/issues"
   },
-  "homepage": "https://github.com/dontruong/homeworkone#readme",
+  "homepage": "https://github.com/csulbying/demo-01-24#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
